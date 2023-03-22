@@ -1,6 +1,6 @@
 import rocket as r
 import matplotlib.pyplot as plt
-
+print("Płaszczyzna")
 
 def rysunek(rakiety):
     
