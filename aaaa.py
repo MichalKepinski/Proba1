@@ -4,7 +4,7 @@ class Person:
     self.age = age
 
 p1 = Person("John", 36)
-
+print("Jestem")
 print("Coś tam")
 print(p1.name)
 print(p1.age)
